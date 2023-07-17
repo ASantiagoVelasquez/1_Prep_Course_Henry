@@ -1,2 +1,1 @@
-# 1_Prep_Course_Henry
-Este es un repositorio de prueba del modulo II
+Este proyecto es una prueba d eoco crear un repositotio y como clonarlos desde git hub
